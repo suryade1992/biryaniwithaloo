@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="background" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="1" class="java.lang.String" itemvalue="packaging" />
+            <item index="2" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="3" class="java.lang.String" itemvalue="redis" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="fonttools" />
+            <item index="6" class="java.lang.String" itemvalue="schedule" />
+            <item index="7" class="java.lang.String" itemvalue="boto3" />
+            <item index="8" class="java.lang.String" itemvalue="sshtunnel" />
+            <item index="9" class="java.lang.String" itemvalue="flask-cors" />
+            <item index="10" class="java.lang.String" itemvalue="pillow" />
+            <item index="11" class="java.lang.String" itemvalue="pem" />
+            <item index="12" class="java.lang.String" itemvalue="lxml" />
+            <item index="13" class="java.lang.String" itemvalue="razorpay" />
+            <item index="14" class="java.lang.String" itemvalue="pytz" />
+            <item index="15" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="16" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="17" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="18" class="java.lang.String" itemvalue="pygit2" />
+            <item index="19" class="java.lang.String" itemvalue="num2words" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="None" />
+          <option value="requests.utils.quote" />
+          <option value="Microservices.python.OnlineStore.Services.edit_online_order.zennx_api" />
+          <option value="StatusCodes" />
+          <option value="Microservices.python.Test.Services.test1.is_business_distributor" />
+          <option value="Microservices.python.Test.Services.test1.sale_id" />
+          <option value="Microservices.python.Test.Services.test1.interface" />
+          <option value="Microservices.python.Sales.Services.email_distribution_sale_return_invoice.interface" />
+          <option value="Microservices.python.Sales.Services.email_distribution_sale_return_invoice.env" />
+          <option value="Microservices.python.Sales.Services.email_distribution_sale_return_invoice.push_utils" />
+          <option value="Microservices.python.Sales.Services.email_distribution_sale_return_invoice.req_utils" />
+          <option value="razorpay.client.Client.order" />
+          <option value="razorpay.client.Client.payment" />
+          <option value="razorpay.client.Client.utility" />
+          <option value="UtilitiesManual.LogExtraction.extract_from_log_table.m" />
+          <option value="Microservices.python.Medicines.Services.search_medicines.re" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
